@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"699881cf-fba2-4d50-913d-b77b242e259b",
+	"author":	"GodsCode",
+	"description":	{
+		"":	"Test to integrate async functionalities in fusion360."
+	},
+	"version":	"0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"AddInIcon.svg"
+}
